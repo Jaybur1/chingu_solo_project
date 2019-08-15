@@ -23,3 +23,7 @@ code {
   width: 20px;
   height: 20px;
 }
+
+.marker-btn:focus{
+outline-color: #db6a29
+}
